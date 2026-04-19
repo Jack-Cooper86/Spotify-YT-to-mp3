@@ -1,3 +1,5 @@
+chat i slightly done goofed please js download the sourcecode.zip file and unzip it im too lazy to figure out how to put that in the binaries tab ^^
+
 # Spotify-YT-to-mp3
 Simple Spotify/YT to mp3 converter depending on YT DLP (command line tool).
 
